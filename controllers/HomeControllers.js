@@ -1,3 +1,3 @@
 exports.index = (req, res) => {
-    res.json({message: "hello root"});
+    res.json({message: "hello LMP"});
 }
